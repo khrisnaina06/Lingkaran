@@ -1,6 +1,7 @@
 # Lingkaran
-## projet program lingkaran
+## project program lingkaran
 ### bentuk flowchart dari program menghitung luas dan keliling lingkaran
+silahkan diperhatikan baik baik cara membuat flowhart lingkarang dibawah ini!
 ![gambar](foto/fc.png)
 ### menggunakan fungsi math
 dengan kode math.pi dengan nilai 3.14
